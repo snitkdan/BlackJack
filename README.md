@@ -1,7 +1,8 @@
 # BlackJack
+Welcome to BlackJack! This is me trying to practice core data structures in a fun way. Hopefully, if you come across this, you'll find the result fun/entertaining. 
 
 ## Pre-requisite
-Ensure that 3.7.0 or higher is installed
+Ensure that Python 3.7.0 or higher is installed
 * Can be verified by running ```python3.7 --version```. 
 * If using anaconda, can ensure this dependency by running ```conda install python=3.7.0```. 
 
