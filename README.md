@@ -1,5 +1,5 @@
 # BlackJack
-Welcome to BlackJack! This is me trying to practice core data structures in a fun way. Hopefully, if you come across this, you'll find the result fun/entertaining. 
+Welcome to BlackJack! This is me trying to practice core data structures in a fun way. Hopefully, if you come across this, you'll find the result interesting/entertaining. 
 
 ## Pre-requisite
 Ensure that Python 3.7.0 or higher is installed
